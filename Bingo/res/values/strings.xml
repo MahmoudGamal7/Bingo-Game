@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bingo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_play">Play</string>
+    <string name="title_activity_scores">Scores</string>
+    <string name="title_activity_instructions">Instructions</string>
+    <string name="title_activity_create_server">CreateServer</string>
+    <string name="title_activity_join_server">JoinServer</string>
+    <string name="title_activity_bingo_game">Bingo Game</string>
+    <string name="title_activity_main_menu">Bingo</string>
+
+</resources>
